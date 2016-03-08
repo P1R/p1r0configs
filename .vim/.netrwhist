@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/p1r0/Python/AIE/Laberinto'
+let g:netrw_dirhist_2='/home/p1r0/Python/AIE/Laberinto/src'
+let g:netrw_dirhist_3='/home/p1r0/isos/WINDOWS XP PRO SP3 SATA/crack'
+let g:netrw_dirhist_4='/home/p1r0/git/Pyspierta'
+let g:netrw_dirhist_5='/home/p1r0/escuela/ESPECIALIDAD/9no/Redes'
