@@ -46,6 +46,7 @@ set hidden		" Hide buffers when they are abandoned
 set mouse=a		" Enable mouse usage (all modes)
 set expandtab ts=4 sw=4 ai "Set TABS to 4 spaces
 set nu
+set pastetoggle=<F3> "paste mode with F3 key, avoid tabs errors"
 " Source a global configuration file if available
 if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
